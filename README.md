@@ -1,5 +1,5 @@
 # Blogs
-This repo is al about collection of blogs written by me 
+This repo is all about a collection of blogs written by me 
 
 1. Medium Blogs
 2. LinkedIn Blogs
